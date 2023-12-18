@@ -2,7 +2,7 @@ import './Footer.css'
 
 function Footer() {
     return (
-        <footer class="copyright">
+        <footer className="copyright">
             <p>&copy; NodeShop - Todos os direitos reservados</p>
         </footer>
     )
